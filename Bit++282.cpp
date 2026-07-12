@@ -7,7 +7,7 @@ int main() {
     int ans = 0;
 
     while (n--) {
-        string s ; 
+        string s; 
         cin>>s ;
         if(s[1]=='+'){
             ans++;
